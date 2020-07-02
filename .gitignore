@@ -1,0 +1,11 @@
+data.db
+Project1.exe
+complete-alarms-casl-x86.exe
+sqlite3.c
+sqlite3.h
+Project1.layout
+Makefile.win
+remove0-from-event-table.layout
+remove0-from-event-table.exe
+main.o
+sqlite3.o
